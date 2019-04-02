@@ -40,6 +40,8 @@ img.logo {
 	text-align: left;
 	color: black;
 }
-.container.footer {
+.container.footer .content {
 	color: #056739;
+	font: 16px verdana;
+	text-align: center;
 }
